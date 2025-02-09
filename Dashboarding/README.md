@@ -13,7 +13,8 @@ In addition, player specific information is included.
 - **User interaction**, like several dashboard actions
 - **Lay-out and design**, like color schemes and branding
 
-![](image.png)
+![image](https://github.com/user-attachments/assets/0f23a91e-393e-4904-97a8-d877d446fd4e)
+
 
 
 
