@@ -15,7 +15,7 @@ Here are some projects that showcase my skills:
    🔗 [GitHub Repo](https://github.com/s-bogers/MySkills/tree/main/Python)
 
 2. **Dashboarding** - Using [Tableau Public](https://public.tableau.com/app/profile/sander.bogers/vizzes) \
-   🔗 [GitHub Repo](https://github.com/s-bogers/MySkills/tree/main/Dashboarding) \
+   🔗 [GitHub Repo](https://github.com/s-bogers/MySkills/tree/main/Dashboarding) 
 
 4. **Data** - In- and output of Python scripts are saved as JSON files \
    🔗 [GitHub Repo](https://github.com/s-bogers/MySkills/tree/main/Data)    
