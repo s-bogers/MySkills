@@ -1,36 +1,26 @@
-# Hi there! 👋 I'm [Your Name]  
-
-🎯 **Data Analyst | Business Intelligence | Data-Driven Decision Making**  
-
-I’m passionate about transforming raw data into meaningful insights that drive business success. With experience in data analysis, visualization, and storytelling, I specialize in uncovering trends and patterns to help organizations make informed decisions.  
-
-## 🚀 **About Me**
-🔹 Experienced in data cleaning, exploration, and visualization  
-🔹 Skilled in SQL, Python, and R for data manipulation and analysis  
-🔹 Proficient in Power BI, Tableau, and Excel for data visualization  
-🔹 Strong foundation in statistics, A/B testing, and predictive modeling  
-🔹 Passionate about automating workflows and optimizing data pipelines  
+# 🚀 My Skills
 
 ## 🛠️ **Technical Skills**
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), R, SQL  
-- **Databases:** MySQL, PostgreSQL, BigQuery  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Data Manipulation:** Excel (Power Query, Pivot Tables), SQL  
+- **Programming:** Python, SQL  
+- **Databases:** Oracle SQL, BigQuery  
+- **Data Visualization:** Power BI, Tableau
+- **Data Manipulation:** SQL  
 - **Machine Learning:** Scikit-learn, TensorFlow (Basic), Time Series Analysis  
-- **Cloud & Tools:** AWS, Google Cloud, Git, Jupyter Notebooks  
+- **Cloud & Tools:** Google Cloud, Git, Jupyter Notebooks  
 
 ## 📌 **Projects**
 Here are some projects that showcase my skills:  
 
-1. **[Project Name]** - [Short description of what it does. Example: Built an interactive Power BI dashboard to analyze sales trends across different regions.]  
-   🔗 [GitHub Repo](#) | 📊 [Live Dashboard](#)  
+1. **Python** - About webscraping, API connection and linear regression prediction
+   🔗 [GitHub Repo](#https://github.com/s-bogers/MySkills/tree/main/Python)
 
-2. **[Project Name]** - [Example: Developed an ETL pipeline using Python and SQL to automate data extraction and transformation.]  
-   🔗 [GitHub Repo](#)  
+2. **Dashboarding** - Using Tableau
+   🔗 [GitHub Repo](#https://github.com/s-bogers/MySkills/tree/main/Dashboarding)
+   More on [Tableau Public](https://public.tableau.com/app/profile/sander.bogers/vizzes)
 
-3. **[Project Name]** - [Example: Performed customer segmentation using clustering techniques in Python.]  
-   🔗 [GitHub Repo](#)    
+4. **Data** - In- and output of Python scripts are saved as JSON files  
+   🔗 [GitHub Repo](#https://github.com/s-bogers/MySkills/tree/main/Data)    
 
 ## 💡 **Let's Connect!**
-:chart_with_upwards_trend: [Tableau Public](https://public.tableau.com/app/profile/sander.bogers/vizzes)
+📊 [Tableau Public](https://public.tableau.com/app/profile/sander.bogers/vizzes) \
 🔗 [LinkedIn](www.linkedin.com/in/bogerssander)
