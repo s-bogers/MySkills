@@ -1,5 +1,5 @@
 # Tableau
-[Tableau Public](https://public.tableau.com/app/profile/sander.bogers/vizzes)
+See all visuals on [Tableau Public](https://public.tableau.com/app/profile/sander.bogers/vizzes)
 
 1. 📊**Premier League: The Player Atlas** \
    🔗 [Click here](https://public.tableau.com/views/PremierLeagueThePlayerAtlas/PremierLeagueThePlayerAtlas?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
