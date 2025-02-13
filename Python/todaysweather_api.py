@@ -19,7 +19,7 @@ load_dotenv(dotenv_path)
 WEATHER_KEY = os.getenv("WEATHER_APIKEY")
 
 # City and base url
-CITY = "Amsterdam, NL"
+CITY = "De Bilt, NL"
 url = f'http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={WEATHER_KEY}&units=metric'
 
 res = requests.get(url, timeout=10)
@@ -32,9 +32,10 @@ description = data['weather'][0]['description']
 temp = data['main']['temp']
 
 # Today's weather information
-print(f"Today's weather for {CITY} is: ")
-print('Temperature:',temp,'°C')
-print('Wind:',wind)
-print('Pressure: ',pressure)
-print('Humidity: ',humidity)
-print('Description:',description)
+if __name__ == "__main__":
+    print(f"Today's weather for {CITY} is: ")
+    print('Temperature:',temp,'°C')
+    print('Wind:',wind)
+    print('Pressure: ',pressure)
+    print('Humidity: ',humidity)
+    print('Description:',description)
